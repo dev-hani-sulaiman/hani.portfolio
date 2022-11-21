@@ -1,0 +1,6 @@
+.helper-container{
+  z-index: 999;
+position:absolute;
+right:20px;
+top: 30%;
+}
